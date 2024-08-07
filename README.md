@@ -12,3 +12,5 @@ When the script is running, it will continuously search for the specified icon i
 Notes
 Ensure that the game window is not obstructed by other windows and the screen resolution matches the one used for image matching.
 The script may need adjustments based on updates to the game or changes in UI elements.
+
+if Wilcard wants this removed it will be removed.
